@@ -16,6 +16,8 @@ https://www.youtube.com/ <p>
 https://www.capcut.com/ko-kr/ <br>
 8. CapCut(캡컷)-수업자료 다운로드 <br>
 https://drive.google.com/file/d/1edxkHKCssDyfVl6q9wB4N5Bj-X0uGKG6/view?usp=drive_link<p><p><p>
+9. CapCut(캡컷)-pc용 설치 파일 다운로드
+https://drive.google.com/file/d/1cg9mC7crR_XASJekjQMWCxEmjNO1l3y1/view?usp=drive_link
 
 <h1>무료영상 다운로드 사이트</h1>
 1. https://pixabay.com/ko/
