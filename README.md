@@ -2,7 +2,7 @@
 https://www.google.com/?hl=ko <p>
 2. AI 챗 생성형 사이트<br>
   ChatGPT 사이트 <br>
-  https://chatgpt.com/ <p>
+  https://chatgpt.com/<br>
   Gemini 사이트 <br>
   https://gemini.google.com/app?hl=ko<br>
   뤼튼<br>
