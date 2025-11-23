@@ -1,6 +1,6 @@
 1. 구글 사이트(회원가입) <br>
 https://www.google.com/?hl=ko <p>
-2. AI 챗 생성형 사이트
+2. AI 챗 생성형 사이트<br>
   ChatGPT 사이트 <br>
   https://chatgpt.com/ <p>
   Gemini 사이트 <br>
