@@ -1,5 +1,5 @@
 <h1><수업전 설문조사></h1>
-<h2><a href="https://naver.me/5463iS0G">설문조사 클릭해 주세요.</a></h2>
+<h2 ><a href="https://naver.me/5463iS0G" style="color:red;">설문조사 클릭해 주세요.</a></h2>
 <hr><hr>
 1. 구글 사이트(회원가입) <br>
 https://www.google.com/?hl=ko <p>
