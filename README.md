@@ -2,6 +2,7 @@
 https://www.google.com/?hl=ko <p>
 2. ChatGPT 사이트 <br>
 https://chatgpt.com/ <p>
+<b> 주제 : </b> <h2>AI 생성형 사업계획서</h2> <p>
 3. 미리캔버스 사이트 <br>
 https://www.miricanvas.com/ko <p>
 4. 캔바 사이트 <br>
