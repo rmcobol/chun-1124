@@ -8,6 +8,7 @@ https://www.miricanvas.com/ko <p>
 https://www.canva.com/ko_kr/
 5. AI 브루로 1분짜리 영상 만들어보기 <br>
 https://vrew.ai/ko/ <p>
+<b> 주제 : </b> 바쁜 현대인을 위한 숙면팁, 장이 부족할때 나타나는 신호 <p>
 6. 유튜브 채널 사이트 <br>
 https://www.youtube.com/ <p>
 7. CapCut(캡컷)->영상편집 사이트 <br>
