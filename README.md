@@ -1,7 +1,13 @@
 1. 구글 사이트(회원가입) <br>
 https://www.google.com/?hl=ko <p>
-2. ChatGPT 사이트 <br>
+2.
+ChatGPT 사이트 <br>
 https://chatgpt.com/ <p>
+Gemini 사이트 <br>
+https://gemini.google.com/app?hl=ko<br>
+뤼튼<br>
+https://wrtn.ai/
+
 <b> 주제 : </b> <h2>AI 생성형 사업계획서</h2> <p>
 <hr>
 3. 미리캔버스 사이트 <br>
