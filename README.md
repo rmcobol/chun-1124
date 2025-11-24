@@ -1,6 +1,9 @@
 <h1><수업전 설문조사></h1>
 <h2 ><a href="https://naver.me/5463iS0G" style="color:red;">설문조사 클릭해 주세요.</a></h2>
-<hr><hr>
+<hr>
+  chrome->크롬 설치하고 환경설정<br>
+  https://www.google.com/intl/ko_kr/chrome/
+<hr>
 1. 구글 사이트(회원가입) <br>
 https://www.google.com/?hl=ko <p>
 2. AI 챗 생성형 사이트<br>
